@@ -1,0 +1,19 @@
+This organization (https://github.com/theshuklas) consists of 5 websites. 
+
+`theshuklas` is the parent website that links to 4 other "personal" websites:
+
+theshuklas
+├── chandramaulishukla
+├── pragyashukla
+├── atharvashukla
+└── charvieshukla
+
+The repositories are currently private but the websites should be active.
+
+| Person              | Repository                               | Website                |
+|---------------------+------------------------------------------+------------------------|
+| All                 | github.com/theshuklas/theshuklas         | theshuklas.com         |
+| Chandramauli Shukla | github.com/theshuklas/chandramaulishukla | chandramaulishukla.com |
+| Pragya Shukla       | github.com/theshuklas/pragyashukla       | pragyashulka.com       |
+| Charvie Shukla      | github.com/theshuklas/charvieshukla      | charvieshukla.com      |
+| Atharva Shukla      | github.com/theshuklas/atharvashukla      | atharvashukla.com      |
